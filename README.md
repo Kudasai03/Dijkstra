@@ -7,20 +7,6 @@ A project for `22C1INF50900702`: **Data Structures and Algorithms** at Universit
 - `31211023531` Nguyễn King ([@nguynking](https://github.com/nguynking))
 - `31211027687` Nguyễn Quốc Việt ([@quocviethere](https://github.com/quocviethere))
 - `31211027643` Đinh Trọng Hữu ([@dinhtronghuu](https://github.com/dinhtronghuu))
-
-______
-
-## Acknowledgement
-To our teacher of the course,
-
-We'd want to thank you for your efforts this semester, particularly in this course. We have no idea where we would be without you. We truly noticed all of the occasions you went above and beyond for us.
-
-This lesson was difficult at times, but there was benefit to being exposed to the content. And this project is quite difficult. But we did it with all of our efforts, collaborative spirit, and your help.
-
-We would like to thank our instructors at University of Economics Ho Chi Minh City for their assistance with this research. Special thanks to our University of Economics Ho Chi Minh City seniors for giving ideas and skills that enabled us to complete this project.
-
-Last but not least, thanks to our teammates, we did it. **Together.**
-
 ________
 
 ## References
